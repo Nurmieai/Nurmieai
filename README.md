@@ -40,7 +40,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GforsZi&layout=compact&theme=dark&hide_border=true&langs_count=8" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmieai&layout=compact&theme=dark&hide_border=true&langs_count=8" width="60%" />
   </a>
 </p>
 
