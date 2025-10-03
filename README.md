@@ -19,7 +19,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 ## Statistik GitHub
 
 <p align="center">
-  <a href="https://github.com/GforsZi">
+  <a href="https://github.com/Nurmieai">
     <img src="https://github-readme-stats.vercel.app/api?username=Nurmieai&show_icons=false&theme=dark&hide_border=true&count_private=true" width="48%" />
   </a>
 </p>
@@ -29,7 +29,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 ## Aktivitas
 
 <p align="center">
-  <a href="https://github.com/GforsZi">
+  <a href="https://github.com/Nurmieai">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurmieai&theme=dark&hide_border=true&area=true" />
   </a>
 </p>
@@ -39,7 +39,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 ## Bahasa Pemrograman yang Sering Digunakan
 
 <p align="center">
-  <a href="https://github.com/GforsZi">
+  <a href="https://github.com/Nurmieai">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmieai&layout=compact&theme=dark&hide_border=true&langs_count=8" width="60%" />
   </a>
 </p>
